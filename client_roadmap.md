@@ -6,7 +6,7 @@
 - Add comment reporting
 - Add support for adding your own dolphin config
 - Add featured mod system back
-  
+- Add different logos for each region with their respective langauge (german, japanese, etc)
 # 0.5.2
 TBD
 
