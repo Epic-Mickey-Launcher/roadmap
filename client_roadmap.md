@@ -5,7 +5,8 @@
 - Remove a bunch of useless print logs
 - Add comment reporting
 - Add support for adding your own dolphin config
-
+- Add featured mod system back
+  
 # 0.5.2
 TBD
 
