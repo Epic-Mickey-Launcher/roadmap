@@ -8,6 +8,7 @@
 - Add featured mod system back
 - Add different logos for each region with their respective language (german, japanese, etc)
 - Reorder cards in games menu
+- Custom location for automatic game extraction
 # 0.5.2
 TBD
 
