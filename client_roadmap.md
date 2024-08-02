@@ -11,6 +11,7 @@
 - Custom location for automatic game extraction
 # 0.5.2
 - Mod Manager / Publisher
+- Implement measures to ensure the launcher is still usable when offline
 
 # 0.5.3
 TBD
