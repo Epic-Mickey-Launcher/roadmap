@@ -9,8 +9,8 @@
 - Add different logos for each region with their respective language (german, japanese, etc)
 - Reorder cards in games menu
 - Custom location for automatic game extraction
-# 0.5.2
 - Mod Manager / Publisher
+# 0.5.2
 - Implement measures to ensure the launcher is still usable when offline
 
 # 0.5.3
