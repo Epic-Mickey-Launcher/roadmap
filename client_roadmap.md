@@ -10,6 +10,7 @@
 - Reorder cards in games menu
 - Custom location for automatic game extraction
 - Mod Manager / Publisher
+- Re-implement manual Dolphin binary assigning
 # 0.5.2
 - Implement measures to ensure the launcher is still usable when offline
 
